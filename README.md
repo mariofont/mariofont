@@ -1,10 +1,17 @@
-# Welcome, friend 👋
+# Welcome, friend 😍
 
-### Glad to see you here, let's take a look 😍
+### Glad to see you here, let's take a look 🔍
 
 ***
 
-- 💻 I'm currently working as an **IT Auditor** at [PwC Spain](https://pwc.es).
+- 💼 I'm currently doing an intership at [PwC Spain](https://pwc.es) as an **IT Auditor**.
+- 🎯 My passions include technology, finance and transportation.
+- 🌐 You can stalk me (responsibly) here: [mariofont.com](https://mariofont.com).
+- 📍 Based in Madrid, Spain.
+
+***
+
+### 👋🏻 That's it, see you next time!
 
 <!--
 **mariofont/mariofont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
