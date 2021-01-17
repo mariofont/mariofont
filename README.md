@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome, friend 👋
+
+### Glad to see you here, let's take a look 😍
+
+***
+
+- 💻 I'm currently working as an **IT Auditor** at [PwC Spain](https://pwc.es).
 
 <!--
 **mariofont/mariofont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
