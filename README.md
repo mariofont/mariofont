@@ -4,7 +4,6 @@
 
 ***
 
-- 💼 I'm currently doing an intership at [PwC Spain](https://pwc.es) as an **IT Auditor**.
 - 🎯 My passions include technology, finance and transportation.
 - 🌐 You can stalk me (responsibly) here: [mariofont.com](https://mariofont.com).
 - 📍 Based in Madrid, Spain.
