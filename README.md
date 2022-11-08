@@ -5,7 +5,8 @@
 ***
 
 - 🎯 Soy un apasionado de la tecnología, sobretodo de la informática.
-- 💻 Trabajo como Site Reliability Engineer (SRE) para CaixaBank.
+- 💻 Trabajo como Site Reliability Engineer (SRE) para [CaixaBank](https://www.caixabank.es/particular/home/particulares_es.html).
+- 🐦 A veces digo cosas interesantes en mi [Twitter](https://twitter.com/mario_font).
 - 📍 Resido en Madrid aunque soy de A Coruña.
 
 ***
@@ -21,7 +22,8 @@
 ***
 
 - 🎯 I'm passoniate about technology, specially IT.
-- 💻 I work for CaixaBank as Site Reliability Engineer (SRE).
+- 💻 I work for [CaixaBank](https://www.caixabank.es/particular/home/particulares_es.html) as Site Reliability Engineer (SRE).
+- 🐦 Sometimes I post interesting stuff on my [Twitter](https://twitter.com/mario_font).
 - 📍 I'm based in Madrid even though I'm from A Coruña.
 
 ***
